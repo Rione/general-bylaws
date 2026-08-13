@@ -22,6 +22,7 @@
 - **SSLリーグ** (Small Size League)
 - **@homeリーグ** (RoboCup@Home)
 - **rescueリーグ** (RoboCupRescue)
+- **ヒューマノイドリーグ** (Humanoid League)
 
 ## 📖 規約の構成
 
